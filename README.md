@@ -16,4 +16,3 @@ Espero que este projeto possa servir e seja enriquecedor.
 * CSS
 * JavaScript
 
-## Dev. Caio Bello 
